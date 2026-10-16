@@ -183,7 +183,6 @@ export const skills = [
       "React.js",
       "Redux Toolkit",
       "Context API",
-      "TanStack React Query",
       "React Router",
       "Tailwind CSS",
       "HTML",
