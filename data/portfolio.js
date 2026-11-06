@@ -162,7 +162,7 @@ export const experience = [
   {
     role: "Full Stack Developer Trainee",
     company: "Mentor Bro",
-    period: "Aug 2025 – Present",
+    period: "Aug 2025 – March 2026",
     location: "Malappuram, Kerala, India",
     note: "Started as a Full Stack Developer Intern (Aug–Sep 2025), then continued as a project-based trainee.",
     bullets: [
