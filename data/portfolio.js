@@ -110,7 +110,7 @@ export const projects = [
     summary:
       "A URL shortener with click analytics and Gemini-powered link insights.",
     built: [
-      "JWT authentication, custom aliases, click tracking, API rate limiting and centralized async error handling.",
+      "Developed a full-stack link management platform using TypeScript across React.js frontend and Node.js/Express.js backend, implementing type-safe application logic.",
       "Google Gemini API integration for URL safety analysis, alias suggestions and traffic insights, with fallback handling.",
       "Analytics dashboard showing visitor activity, browser, referrer and anonymized IP data.",
       "Frontend performance work using React.lazy, Suspense and TanStack React Query caching; logic organized into custom hooks and a service layer.",
@@ -118,6 +118,7 @@ export const projects = [
     outcome: "Live on Vercel.",
     stack: [
       "React.js",
+      "TypeScript",
       "TanStack React Query",
       "React Router",
       "Node.js",
